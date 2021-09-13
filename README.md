@@ -1,3 +1,4 @@
+[01-파이썬-문법.pdf](https://github.com/kyungjin96/rapa_test/files/7150786/01-.-.pdf)
 # rapa_test
 rapa  프로젝트 테스트 저장소
 
